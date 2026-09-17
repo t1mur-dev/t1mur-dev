@@ -90,6 +90,14 @@
 <img src="https://streak-stats.demolab.com?user=t1mur-dev&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 ---
-![Commits per hour](https://github-readme-activity-graph.vercel.app/graph?username=t1mur-dev&theme=chartreuse-dark&area=true&hide_border=true)
+
 
 </p>
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
